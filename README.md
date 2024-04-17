@@ -1,9 +1,9 @@
 
 
-<h1 align="center"><b>Hola , Mi nombre es Johan, un gusto </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Un saludo cordial mi estimad@. </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->.
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Estoy+estudiando...;Porfavor+guarde+silencio,;aunque+suene+que+no+tiene+sentido.;Team+Python+x+100pre"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+programador+en:;Python,+HTML,+CSS,+JavaScript;De+momento+sin+certificado."></a>
 </p>
 
 
@@ -19,7 +19,7 @@
 - Estudiante en el desarrollo web y Seguridad de redes
 - Tecnico medio en electricidad
 - Cuando ya sea un programador jr/mid pondre aquí mis primeros proyectos
-- Seamos amigos :D [Instagram](https://www.instagram.com/yukitto.0/)
+- Sigueme en [instagram](https://www.instagram.com/yukitto.0/) para hacernos amigos.
 
 <br><br>
 
