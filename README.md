@@ -93,7 +93,3 @@
 ---
 
 <br>
-
-Credito: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Fecha de creación: 09/11/2022
