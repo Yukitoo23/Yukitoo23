@@ -8,13 +8,14 @@
 
 	
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Sobre mí</b>
-<img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
+
 <br>
 
 - Estudiante en el desarrollo web y Seguridad de redes
 - Tecnico medio en electricidad
 - Cuando ya sea un programador jr/mid pondre aquí mis primeros proyectos
 - Sigueme en [instagram](https://www.instagram.com/yukitto.0/) para hacernos amigos.
+<img align="left" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
 
 <br><br>
 
