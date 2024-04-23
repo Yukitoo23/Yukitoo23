@@ -3,15 +3,21 @@
 <h1 align="center"><b>Hey, bienvenid@ a mi GitHub</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Solo+soy+un+estudiante+front+end.."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Solo+soy+un+estudiante+front+end..;HTML,+CSS+y+pronto+JavaScript"></a>
 </p>
 
-	
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Sobre mí</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Sobre mí</b>
 
 <br>
 
-- Estudiante en el desarrollo web y Seguridad de redes
+- Mi nombre es johan, de chile, me dedico a instalaciones electricas o mejor dicho me dedicaba. Tengo 23 años y decidi finalmente estudiar un sueño de niño, empezare por Front End, seguire por Back End y terminare como Full Stack, mi meta no es ganar dinero, osea si quiero dinero porque estoy sin trabajo y debo mantener a 2 hermosos hijos(Gatos) que gastan mucho dinero en comida. Pero mi meta a todo esto es prepararme desde casa, estudiar todos los días para cuando entre a una universidad tener el mayor conocimiento y centrarme en las nuevas materias(Quiero tener la ingenieria y un doctorado). ¿Por que no estudio ahora en una universidad? pues, porque me la pela...
+- Abajo dejare más información y puede que suba mis avances en los estudios, deseenme suerte U.u
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Extras</b>
+
+<br>
+
+- Estudiante de desarrollo web
 - Tecnico medio en electricidad
 - Cuando ya sea un programador jr/mid pondre aquí mis primeros proyectos
 - Sigueme en [instagram](https://www.instagram.com/yukitto.0/) para hacernos amigos.
