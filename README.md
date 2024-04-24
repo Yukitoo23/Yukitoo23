@@ -10,42 +10,37 @@
 
 <br>
 
-- Mi nombre es johan, de chile, me dedico a instalaciones electricas o mejor dicho me dedicaba. Tengo 23 años y decidi finalmente estudiar un sueño de niño, empezare por Front End, seguire por Back End y terminare como Full Stack, mi meta no es ganar dinero, osea si quiero dinero porque estoy sin trabajo y debo mantener a 2 hermosos hijos(Gatos) que gastan mucho dinero en comida. Pero mi meta a todo esto es prepararme desde casa, estudiar todos los días para cuando entre a una universidad tener el mayor conocimiento y centrarme en las nuevas materias(Quiero tener la ingenieria y un doctorado). ¿Por que no estudio ahora en una universidad? pues, porque me la pela...
-- Abajo dejare más información y puede que suba mis avances en los estudios, deseenme suerte U.u
+- Mi nombre es johan, de chile, me dedico a instalaciones electricas o mejor dicho me dedicaba. Tengo 23 años y decidi finalmente estudiar un sueño de niño, empezare por Front End, seguire por Back End y terminare como Full Stack, mi meta no es ganar dinero, osea si quiero dinero porque estoy sin trabajo y debo mantener a 2 hermosos hijos(Gatos) que gastan mucho dinero en comida y mis gustos son caros.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Extras</b>
-
 <br>
 
-- Estudiante de desarrollo web
-- Tecnico medio en electricidad
-- Cuando ya sea un programador jr/mid pondre aquí mis primeros proyectos
-- Sigueme en [instagram](https://www.instagram.com/yukitto.0/) para hacernos amigos.
-<img align="left" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
-
-<br><br>
+- Me gusta el Voleibol 🏐 (Me lesione la muñeca)
+- Escucho Música 🎶 la mayor parte del día, la otra parte veo videos o leo algún libro. 📚
+- Veo mucho anime(un otaku que se baña)
+- Escribo codigos modo practica
+- Comida favorita sushi 🍣 y pizza 🍕 no me de que me descontrolo!.
+- Tengo 2 Gatos, Zeus y Manchitas, mis amores 😻
+- Estudio de forma autonoma. 🤓☝🏼
+<!--  -->
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades</b>
-<br>
-
 <p align="center">
 
-- **Lenguajes**:
-    
-    ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-    ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-    ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-<br>   
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Lenguajes y tecnologías </b>
+<br>
 
-**Intereses**:
-- Musica
-- Voleibol
-- leer
-- Dibujar
-- Anime
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 </p>
 <br>
@@ -54,28 +49,13 @@
 
 <br>
 
-## <b> Contacto:</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
+### 🤝🏻 &nbsp;Contactame
 
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/johan-tkd-6a5737300/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Johan Regla-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:johanregla@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Johan Regla-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
+<p align="center">
+<a href="johanregla@gmail.com"><img src="https://img.shields.io/badge/-johanregla@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/yukitto.0/"><img src="https://img.shields.io/badge/-@yukitto.0-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100090200902572"><img src="https://img.shields.io/badge/-@JohanRegla-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
