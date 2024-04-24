@@ -1,6 +1,10 @@
-[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
-
 <h1 align="center"><b>Hey, bienvenid@ a mi GitHub</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+  <div align="center">
+    <img src="https://github.com/Yukitoo23/Yukitoo23/assets/164388819/d848e317-69c7-4aeb-a92c-f5709eef6e14" width="500" height="300"/>
+  </div>
+<h1 align="center"></h1>
+
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Solo+soy+un+estudiante+front+end..;HTML,+CSS+y+pronto+JavaScript"></a>
