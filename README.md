@@ -1,7 +1,7 @@
-<h1 align="center"><b>Hey, bienvenid@ a mi GitHub</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hey, bienvenid@ a mi GitHub</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
   <div align="center">
-    <img src="https://github.com/Yukitoo23/Yukitoo23/assets/164388819/d848e317-69c7-4aeb-a92c-f5709eef6e14" width="500" height="300"/>
+    <img src="https://github.com/Yukitoo23/Yukitoo23/assets/164388819/d848e317-69c7-4aeb-a92c-f5709eef6e14" width="100%"/>
   </div>
 <h1 align="center"></h1>
 
@@ -10,21 +10,21 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Solo+soy+un+estudiante+front+end..;HTML,+CSS+y+pronto+JavaScript"></a>
 </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Sobre mí</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Sobre mí</b>
 
 <br>
 
-- Mi nombre es johan, de chile, me dedico a instalaciones electricas o mejor dicho me dedicaba. Tengo 23 años y decidi finalmente estudiar un sueño de niño, empezare por Front End, seguire por Back End y terminare como Full Stack, mi meta no es ganar dinero, osea si quiero dinero porque estoy sin trabajo y debo mantener a 2 hermosos hijos(Gatos) que gastan mucho dinero en comida y mis gustos son caros.
+- Mi nombre es Johan, alias Yukito (雪兎 conejo de nieve) de chile, chillán. Tengo 23 años y actualmente estudio de forma autonoma online en el desarrollo y diseño web. Mis metas es ser Full Stack (Especialista en desarrollo web, Fron y Back end). Para ello no usare mi GitHub para encontrar trabajo, si no para compartir mis progresos y mis codigos ambientado para gente como yo, que recien empieza su progreso como desarrollador web.
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Extras</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Extras</b>
 <br>
 
-- Me gusta el Voleibol 🏐 (Me lesione la muñeca)
-- Escucho Música 🎶 la mayor parte del día, la otra parte veo videos o leo algún libro. 📚
-- Veo mucho anime(un otaku que se baña)
-- Escribo codigos modo practica
-- Comida favorita sushi 🍣 y pizza 🍕 no me de que me descontrolo!.
-- Tengo 2 Gatos, Zeus y Manchitas, mis amores 😻
+- Me gusta el Voleibol 🏐
+- Escucho Música 🎶 la mayor parte del día
+- Soy lector activo. 📚 Me llama la atencón los libros de auto ayuda y sociales.
+- Me gustan muchas series y peliculas, especialmente los animes.
+- Comida favorita es el sushi 🍣 y la pizza 🍕 No me den que me descontrolo!.
+- Tengo 2 Gatos, Zeus y Manchitas, mis amores. 😻
 - Estudio de forma autonoma. 🤓☝🏼
 <!--  -->
 <br>
@@ -33,7 +33,7 @@
 
 <p align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Lenguajes y tecnologías </b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Lenguajes y tecnologías </b>
 <br>
 
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
