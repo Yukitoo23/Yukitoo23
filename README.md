@@ -19,6 +19,8 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Extras</b>
 <br>
 
+<div font-size="1em">
+  
 - Me gusta el Voleibol 🏐
 - Escucho Música 🎶 la mayor parte del día
 - Soy lector activo. 📚 Me llama la atencón los libros de auto ayuda y sociales.
@@ -26,6 +28,8 @@
 - Comida favorita es el sushi 🍣 y la pizza 🍕 No me den que me descontrolo!.
 - Tengo 2 Gatos, Zeus y Manchitas, mis amores. 😻
 - Estudio de forma autonoma. 🤓☝🏼
+
+</div>
 <!--  -->
 <br>
 
