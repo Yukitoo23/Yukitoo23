@@ -21,8 +21,8 @@
 
 <div font-size="1em">
   
-- Me gusta el Voleibol 🏐
-- Escucho Música 🎶 la mayor parte del día
+- Me gusta el Voleibol. 🏐
+- Escucho distintos tipos de música, especialmente el hip hop y rap. 🎶
 - Soy lector activo. 📚 Me llama la atencón los libros de auto ayuda y sociales.
 - Me gustan muchas series y peliculas, especialmente los animes.
 - Comida favorita es el sushi 🍣 y la pizza 🍕 No me den que me descontrolo!.
