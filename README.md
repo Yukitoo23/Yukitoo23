@@ -68,6 +68,6 @@
 <div>
 Credit:  @Yukitoo23
 </div>
-<div>
+<div size="11">
   27/04/2024
 </div>
